@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">jogApps</string>
+    <string name="jogging">Jogging</string>
+    <string name="SearchRun">Search Run</string>
+    <string name="Run">Run</string>
+
+
+</resources>
